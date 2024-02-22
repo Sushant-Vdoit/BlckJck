@@ -87,3 +87,5 @@ elif 21 - total(dealerHand)<21-total(playerHand):
 elif 21-total(dealerHand)>21-total(playerHand):
     print(f"\nYou have {playerHand} for a total of {total(playerHand)} and the dealer has {dealerHand} for a total of {total(dealerHand)}")
     print("You Wins!")
+
+print("game khatam paisa hajam")
